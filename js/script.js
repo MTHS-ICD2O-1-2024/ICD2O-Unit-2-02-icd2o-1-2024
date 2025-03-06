@@ -7,6 +7,6 @@
 /**
  * Displays an alert with the message "Hello, World!"
  */
-function myButtonClicked() {
+function doMathClicked() {
   alert("Hello, World!")
 }
